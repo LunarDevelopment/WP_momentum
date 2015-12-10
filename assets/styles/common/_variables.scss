@@ -1,0 +1,27 @@
+// Glyphicons font path
+$icon-font-path:        "../fonts/";
+
+// Grid settings
+$main-sm-columns:       12;
+$sidebar-sm-columns:    4;
+
+// Colors
+$brand-primary:         #cc0000;
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 15px 0;
+  font-family: "Bree Serif", serif;
+  font-weight: normal;
+  line-height: normal;
+  color: #000;
+}
+
+body {
+  font-family: Tinos, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  color: #373737;
+}
+
+
+
