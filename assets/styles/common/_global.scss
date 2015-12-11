@@ -1,1 +1,13 @@
 
+.twoColumns{
+    -webkit-column-gap: 20px;
+       -moz-column-gap: 20px;
+            column-gap: 20px;
+    -webkit-column-count: 2;
+       -moz-column-count: 2;
+            column-count: 2;
+}
+
+.sub-header {
+  font-weight: 700 !important;
+}
